@@ -1,0 +1,8 @@
+1)create-react-app <ProjectName> : first command to install the react library 
+but these is an very time consuming prosecess to install.
+
+2) npm : node-package-manager.
+
+3) npx : node-package-executor.
+
+4) 
