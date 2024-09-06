@@ -1,8 +1,22 @@
-1)create-react-app <ProjectName> : first command to install the react library 
-but these is an very time consuming prosecess to install.
+1)create-react-app <ProjectName> : 
+first command to install the react library 
+but these is an very time consuming prosecess to install 256MB.
 
 2) npm : node-package-manager.
 
 3) npx : node-package-executor.
 
-4) 
+4) You can now view 01basic_reactapp in the browser command with 
+(create-react-app) Local: http://localhost:3000
+On Your Network: http://192.168.1.39:3000
+
+5) npm run start : this command has to work with framework.
+
+6)  VITE project to run this port
+  ➜  Local:   http://localhost:5174/
+
+7) npm run dev : this command has to work with Vite Library.
+
+8) see the script all the command in package.json when 
+you are in framework or library.  
+
